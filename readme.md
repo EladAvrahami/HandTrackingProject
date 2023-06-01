@@ -8,7 +8,7 @@ quiqe setup python 3.10 and above
 pycharm -> settings->project->interpreter-> install opencv-python & mediapipe packages
 
 
-<pre>
+<pre style='font-family:Arial, Helvetica, sans-serif'>
 #1
 Hands include parameters like: the defoult is to be false 
                 static_image_mode=False,- if it false somtimes it detect and sometimes it will track depends the confidence level of detection
