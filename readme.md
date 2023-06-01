@@ -1,6 +1,9 @@
 
 <h2>Hand Tracking - basic</h2>
 
+![image](https://github.com/EladAvrahami/HandTrackingProject/assets/86184072/b6d139b9-1f1a-477f-b460-a4f1139a71f4)
+
+
 quiqe setup python 3.10 and above 
 pycharm -> settings->project->interpreter-> install opencv-python & mediapipe packages
 
